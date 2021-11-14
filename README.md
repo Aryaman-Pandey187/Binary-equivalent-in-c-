@@ -1,4 +1,4 @@
-# Binary-quivalent-in-c-
+# Binary-equivalent-in-c-
 
     #include<iostream>
     using namespace std;
